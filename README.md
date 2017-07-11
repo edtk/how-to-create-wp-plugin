@@ -1,1 +1,1 @@
-# how-to-create-wp-plugin
+Description how to create a WordPress plugin
